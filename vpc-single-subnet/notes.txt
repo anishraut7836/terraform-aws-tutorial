@@ -1,0 +1,8 @@
+This is a simple vpc with single subnet document.
+Who staring learing basic things like how to create a vpc and subnet through terraform.
+Before running terraform init and terraform apply you need to update your IAM user access key and secret key.
+
+#terraform init
+#terraform apply
+
+when promt ask yes for approval then put it and hit the enter button. 
